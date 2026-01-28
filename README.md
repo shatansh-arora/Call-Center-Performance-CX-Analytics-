@@ -174,9 +174,9 @@ Shatansh Arora
 ## 📊 Power BI Dashboard Snapshots
 
 ### Executive Overview
-![Executive Overview](powerbi/dashboard_screenshots/executive_overview.png)
+![Executive Overview](powerbi/dashboard_screenshots/executive_overview.png](https://github.com/shatansh-arora/Call-Center-Performance-CX-Analytics-/blob/main/powerBI/dashboard_screenshots/Executive%20Overview.png?raw=true)
 
 ### Agent Performance Deep Dive
-![Agent Performance Deep Dive](powerbi/dashboard_screenshots/agent_performance_deep_dive.png)
+![Agent Performance Deep Dive][(powerbi/dashboard_screenshots/agent_performance_deep_dive.png)](https://github.com/shatansh-arora/Call-Center-Performance-CX-Analytics-/blob/main/powerBI/dashboard_screenshots/Agent%20Performance%20Deep%20Dive.png?raw=true)
 
 
