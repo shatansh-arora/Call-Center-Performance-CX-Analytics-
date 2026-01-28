@@ -169,7 +169,7 @@ Shatansh Arora
 ## 📊 Excel Dashboard Snapshots
 
 ### Excel_Exploratory_Analysis
-![Excel_Exploratory_Analysis](excel/Excel_Exploratory_Analysis.png)
+![Excel_Exploratory_Analysis]([excel/Excel_Exploratory_Analysis.png](https://github.com/shatansh-arora/Call-Center-Performance-CX-Analytics-/blob/main/excel/Excel_Exploratory_Analysis.png?raw=true))
 
 ## 📊 Power BI Dashboard Snapshots
 
