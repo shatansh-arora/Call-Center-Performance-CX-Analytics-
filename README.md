@@ -164,3 +164,19 @@ SLA breach forecasting
 👤 Author
 Shatansh Arora
  Business Analyst | Data Analytics 
+ ---
+
+## 📊 Excel Dashboard Snapshots
+
+### Excel_Exploratory_Analysis
+![Excel_Exploratory_Analysis](excel/Excel_Exploratory_Analysis.png)
+
+## 📊 Power BI Dashboard Snapshots
+
+### Executive Overview
+![Executive Overview](powerbi/dashboard_screenshots/executive_overview.png)
+
+### Agent Performance Deep Dive
+![Agent Performance Deep Dive](powerbi/dashboard_screenshots/agent_performance_deep_dive.png)
+
+
