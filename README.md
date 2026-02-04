@@ -163,7 +163,7 @@ SLA breach forecasting
 
 👤 Author
 Shatansh Arora
- Business Analyst | Data Analytics 
+Business Analyst | Data Analytics 
  ---
 
 ## 📊 Excel Dashboard Snapshots
